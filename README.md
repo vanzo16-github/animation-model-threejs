@@ -1,2 +1,12 @@
-# animation-model-threejs
-This is the three.js pattern with animation of the model.
+# Базовый шаблон Three.js с анимацией модели
+
+## Начало работы
+
+1. Клонировать себе и установить зависимости:
+    ```bash
+    npm i three
+    ```
+2. Для запуска сервера:
+    ```bash
+    parcel index.html
+    ```
